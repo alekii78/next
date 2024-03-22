@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "709792059114",
+    "project_id": "mech-tran",
+    "storage_bucket": "mech-tran.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:709792059114:android:d49db16be95d31f91b5193",
+        "android_client_info": {
+          "package_name": "com.example.mech_tran"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBgvbHeiwefKbwibZP9zdGTLc_xXEFuTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
